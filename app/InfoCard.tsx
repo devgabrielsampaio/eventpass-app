@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
       shadowOpacity: 0.2,
       shadowRadius: 10,
       elevation: 5,
+      marginTop: 40,
     },
 
     title: {
