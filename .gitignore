@@ -4,4 +4,4 @@ dist/
 build/
 android/
 ios/
-.env
+.env*.apk 
